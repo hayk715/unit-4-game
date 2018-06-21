@@ -1,0 +1,71 @@
+
+body{
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/dark-grey-terrazzo.png");
+}
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%
+}
+div{
+	padding: 20px;
+}
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+
+
+div.header{
+	background-color: #c97128;
+	color: white;
+	width: 20%;
+}
+div.instructions{
+	width: 30%;
+
+}
+
+div.instructions {
+	background-color: #fbe6cd;
+	color: #5bc880;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+.targetScore{
+	background-color: #5bc880;
+	color: black;
+	float: left;
+	width: 5%;
+	height: 60px;
+	font-size: 50px;
+	padding-right: 10%; 
+}
+
+.scoreboard{
+	float: left;
+	width: 5%;
+	height: 60px;
+	background-color: #4afdfb;
+}
+.userTotal{
+	width: 15%;
+	height: 30px;
+	background-color: #2ca194;
+	color: white;
+	font-size: 30px;
+}
+
+
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 90px;
+	margin: 10px;
+}
